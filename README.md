@@ -1,5 +1,5 @@
 # 🚀 GRAPHIC DESIGNING
-### I Love to Design and edit at My free time. I am a Freelancer. This repo has my graphic design works. 
+### I am a Freelancer and I Love to Design and edit at My free time. . This repo has my graphic design works. 
 
 ## 🎨TOOLS
 - Adobe Photoshop
@@ -10,4 +10,8 @@
 Note: 
 Currently i am not providing any freelancing services in graphic design.
 ```
+---
+#### K. SAI GOUTHAM - Thank you👋🏻
+---
+
 
